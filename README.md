@@ -30,7 +30,7 @@ It combines **AES-256-GCM** with **HKDF-SHA256**, and follows the pattern of **s
 ## Installation
 
 ```bash
-go get github.com/my-repo/gocipher
+go get github.com/hamidteimouri/gocipher
 ```
 
 ---
@@ -41,7 +41,7 @@ go get github.com/my-repo/gocipher
 
 ```go
 import (
-    "github.com/my-repo/gocipher"
+    "github.com/hamidteimouri/gocipher"
     "os"
     "log"
 )
